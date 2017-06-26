@@ -1,7 +1,7 @@
 public class MergeConflict {
 
 	int numMerges;
-	String bestLecturer = "Dan Sochor";
+	String bestLecturer = "Josh Zeitsoff";
 
 	public MergeConflict() {
 		this.numMerges = 0;
